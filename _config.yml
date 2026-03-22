@@ -23,7 +23,7 @@ repository               : "zkyang16/zkyang16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhangke Yang"
   pronouns         : # example: "she/her"  
   bio              : "Good at mechanics, multiscacle modeling, and coding, looking forward to new developments in AI era"
