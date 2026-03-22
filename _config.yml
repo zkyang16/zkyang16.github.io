@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhangke Yang"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Clemson, SC"
+  employer         : "Clemson University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zkyang16@gmail.com" 
 
   # Academic websites
   academia         : # URL
