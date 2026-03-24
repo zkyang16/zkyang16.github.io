@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zhangke Yang. I received my Ph.D. in Mechanical Engineering from Clemson University in May 2025. Prior to that, I earned both my Master’s and Bachelor’s degrees in engineering back in China.
+I am Zhangke Yang and I received my Ph.D. in Mechanical Engineering from Clemson University in May 2025. Prior to that, I earned both my Master’s and Bachelor’s degrees in engineering back in China.
 
 A data-driven personal website
 ======
