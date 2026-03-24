@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 I am Zhangke Yang and I received my Ph.D. in Mechanical Engineering from Clemson University in May 2025. Prior to that, I earned both my Master’s and Bachelor’s degrees in engineering back in China.
+<div style="display: flex; gap: 20px;">
+  <img src="/images/editing-talk.png" style="width: 48%;">
+  <img src="/images/editing-talk.png" style="width: 48%;">
+</div>
 
 A data-driven personal website
 ======
