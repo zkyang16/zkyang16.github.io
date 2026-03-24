@@ -50,7 +50,7 @@ Example: editing a Markdown file for a talk
 <!-- ![Editing a Markdown file for a talk](/images/editing-talk.png) -->
 <div style="display: flex; gap: 20px;">
   <img src="/images/editing-talk.png" style="width: 48%;">
-  <!-- <img src="/images/img2.png" style="width: 48%;"> -->
+  <img src="/images/editing-talk.png" style="width: 48%;">
 </div>
 
 For more info
