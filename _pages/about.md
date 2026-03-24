@@ -9,8 +9,9 @@ redirect_from:
 
 I am currently a Postdoctoral Fellow at Clemson University, focusing on design of polymer nanocomposites and bioinspired functionally graded materials using multiscale modeling and machine learning. I received my Ph.D. in Mechanical Engineering from Clemson University in May 2025. Prior to that, I earned both my Master’s and Bachelor’s degrees in engineering back in China.
 <div style="display: flex; gap: 20px;">
-  <img src="/images/clemson_commencement.png" style="width: 48%;">
-  <img src="/images/editing-talk.png" style="width: 48%;">
+  <img src="/images/clemson_commencement.png" style="width: 100%; max-width: 500px;">
+  <img src="/images/ME_award.png" style="width: 100%; max-width: 500px;">
+  <img src="/images/SES_presentation.png" style="width: 100%; max-width: 500px;">
 </div>
 
 A data-driven personal website
