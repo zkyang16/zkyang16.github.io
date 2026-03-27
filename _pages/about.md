@@ -13,5 +13,5 @@ I am currently a Postdoctoral Fellow at Clemson University, focusing on design o
 
 
 
-# Research Hilights
-## 1. Mesoscale Modeling of Tendon-bone Insertion 
+# Research Interests
+## 1. Mechanics-Guided Design of Bio-Inspired Materials 
