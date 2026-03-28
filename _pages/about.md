@@ -13,5 +13,9 @@ I am currently a **Postdoctoral Fellow** at Clemson University, focusing on desi
 Outside of my professional work, I stay active through **basketball, pickleball, hiking, and swimming**. I also have a passion for **drone photography**—a hobby that began in my first year of graduate school when I successfully built my first custom drone from scratch for entertainment.
 <br><br>
 # Research Highlights
+<div style="display: flex; gap: 20px;">
+  <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
+  <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
+</div>
 ## 1. Mechanics-Guided Design of Bio-Inspired Materials 
 Biological systems achieve exceptional mechanical performance through hierarchical structures and graded interfaces. My research leverages multiscale modeling and data-driven approaches to uncover the mechanics of stress transfer across such heterogeneous systems. These insights enable the design of bio-inspired materials with optimized architectures and interfacial properties, aiming to reduce stress concentrations and enhance performance.
