@@ -17,5 +17,4 @@ Outside of my professional work, I stay active through **basketball, pickleball,
   <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
   <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
 </div>
-## 1. Mechanics-Guided Design of Bio-Inspired Materials 
-Biological systems achieve exceptional mechanical performance through hierarchical structures and graded interfaces. My research leverages multiscale modeling and data-driven approaches to uncover the mechanics of stress transfer across such heterogeneous systems. These insights enable the design of bio-inspired materials with optimized architectures and interfacial properties, aiming to reduce stress concentrations and enhance performance.
+
