@@ -18,7 +18,7 @@ Outside of my professional work, I stay active through **basketball, pickleball,
 </div>
 
 # Hornors and Awards
-<img src="/images/clemson_commencement.png" 
+<img src="/images/ME_award.png" 
      style="float: right; width: 200px; margin-left: 20px;">
 - **SES Future Faculty Symposium Award**, 2025, Atlanta, GA
 - **ME Excellence Award: PhD**, 2025, Clemson University, Clemson, SC
