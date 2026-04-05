@@ -16,4 +16,9 @@ Outside of my professional work, I stay active through **basketball, pickleball,
 <div style="display: flex; gap: 20px;">
   <img src="/images/Research_highlights.png" style="width: 100%;">
 </div>
-
+# Hornors and Awards
+- **SES Future Faculty Symposium Award**, 2025, Atlanta, GA
+- **ME Excellence Award: PhD**, 2025, Clemson University, Clemson, SC
+- **Top Scorer of Mechanical Engineering Poster Competition**, 2022, Clemson University, Clemson, SC
+- **Outstanding Graduate**, 2015, Xi'an, China
+- **First Prize of the 5th National College Student Mathematics Competition**, 2013, Xi'an, China
