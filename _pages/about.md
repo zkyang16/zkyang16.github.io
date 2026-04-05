@@ -16,7 +16,7 @@ Outside of my professional work, I stay active through **basketball, pickleball,
 <div style="display: flex; gap: 20px;">
   <img src="/images/Research_highlights.png" style="width: 100%;">
 </div>
-
+<br><br>
 # Hornors and Awards
 <img src="/images/ME_award.png" 
      style="float: right; width: 200px; margin-left: 20px;">
