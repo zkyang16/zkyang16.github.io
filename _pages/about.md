@@ -14,7 +14,6 @@ Outside of my professional work, I stay active through **basketball, pickleball,
 <br><br>
 # Research Highlights
 <div style="display: flex; gap: 20px;">
-  <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
-  <img src="/images/Optimal design of tendon-bone insertion-inspired grading materials.png" style="width: 48%;">
+  <img src="/images/Research_highlights.png" style="width: 48%;">
 </div>
 
