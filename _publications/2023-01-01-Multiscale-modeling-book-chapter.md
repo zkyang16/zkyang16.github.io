@@ -3,7 +3,7 @@ title: "Multiscale modeling of failure behaviors in carbon fiber-reinforced poly
 collection: publications
 category: books
 excerpt: 'A short description of your book chapter.'
-date: 2023
+date: 2023-01-01
 venue: 'Book Title or Publisher Name'
 paperurl: 'https://link-to-your-chapter.com'
 ---
