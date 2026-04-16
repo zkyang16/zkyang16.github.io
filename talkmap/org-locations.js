@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Understanding the effects of mineralization and structure on the mechanical properties of tendon-bone insertion using mesoscale computational modeling<br />SES 2024 Annual Technical Meeting; Hangzhou, China",
+    30.2489634,
+    120.2052342
   ],
   [
     "Deciphering and translating bioinspired structures for engineering materials design via computational modeling and machine learning<br />SES 2025 Annual Technical Meeting; Atlanta, GA, USA",
