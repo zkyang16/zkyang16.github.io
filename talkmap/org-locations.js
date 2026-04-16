@@ -10,13 +10,13 @@ var addressPoints = [
     -84.3898151
   ],
   [
+    "Investigation of dynamic impact response of PMMA-graphene layered nanocomposite films using molecular dynamics simulations<br />2023 APS March Meeting; Las Vegas, NV, USA",
+    36.1674263,
+    -115.1484131
+  ],
+  [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
     37.8708393,
     -122.272863
-  ],
-  [
-    "Investigation of dynamic impact response of PMMA-graphene layered nanocomposite films using molecular dynamics simulations<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
   ]
 ];
