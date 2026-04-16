@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Fundamentals of Atomistic Modeling "
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+venue: "Clemson University, Department of Mechanical Engineering"
+date: 2026-01-20
+location: "Clemson, SC"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Delivered three full lectures, held office hours, and assisted with the design of homework
 
 Heading 1
 ======
