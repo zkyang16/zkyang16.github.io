@@ -1,5 +1,5 @@
 ---
-title: "dentifying structure-property relationships of micro-architectured porous scaffolds through 3D printing and finite element analysis"
+title: "Identifying structure-property relationships of micro-architectured porous scaffolds through 3D printing and finite element analysis"
 collection: publications
 category: manuscripts
 excerpt: 'This study combines 3D printing and FEA to investigate how wall thickness and domain density affect the mechanical performance of porous scaffolds. Key findings include a failure mode transition from compression to buckling as walls thin, and a positive correlation between domain count and stiffness. Notably, discrepancies between experimental and numerical results suggest size-dependent material properties in 3D-printed features, underscoring the necessity of integrated modeling to understand small-scale deformation mechanisms.'
