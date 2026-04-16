@@ -6,7 +6,7 @@ venue: "Clemson University, Department of Mechanical Engineering"
 date: 2026-01-20
 location: "Clemson, SC"
 ---
-Delivered three full lectures, held office hours, and assisted with the design of homework
+Delivered three full lectures, held office hours, and assisted with the design of homework.
 
 Heading 1
 ======
