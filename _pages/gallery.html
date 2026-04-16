@@ -5,11 +5,29 @@ permalink: /gallery/
 author_profile: true
 ---
 
-{% include base_path %}
+<style>
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.gallery-grid div {
+  text-align: center;
+}
+.gallery-grid img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+</style>
 
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="gallery-grid">
+  {% for post in site.portfolio %}
+    <div>
+      {{ post.excerpt }}
+      <p><strong>{{ post.title }}</strong></p>
+    </div>
+  {% endfor %}
+</div>
 
 
