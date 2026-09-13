@@ -23,7 +23,7 @@ repository               : "zkyang16/zkyang16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Zhangke Yang"
   pronouns         : # example: "she/her"  
   bio              : "Currently a Postdoctoral Fellow at Clemson University. Passionate about mechanics, multiscale modeling, and programming, with a growing interest in new advancement with AI."
