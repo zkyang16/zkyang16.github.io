@@ -23,7 +23,7 @@ repository               : "zkyang16/zkyang16.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpg"
   name             : "Zhangke Yang"
   pronouns         : # example: "she/her"  
   bio              : "Currently a Postdoctoral Fellow at HEMI, Johns Hopkins University."
